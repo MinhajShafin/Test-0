@@ -1,2 +1,2 @@
 # Test-0
-learning c++
+solving codeforce problems via c++
