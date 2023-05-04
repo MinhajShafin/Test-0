@@ -1,0 +1,12 @@
+import javax.swing.JOptionPane;
+
+public class practice {
+    public static void main(String[] args){
+
+
+      JOptionPane.showInputDialog(null, "Bhalo asen bhai?");
+      JOptionPane.showMessageDialog(null, "MARA KHA");
+      
+
+}
+}
